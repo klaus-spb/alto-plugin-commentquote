@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Commentquote</lang>
+		<lang name="russian">Commentquote - цитирование в комментариях</lang>
+	</name>
+	<author>
+		<lang name="default">Klaus</lang>
+	</author>
+	<homepage>http://altocms.ru</homepage>
+	<version>1.0</version>
+	<dirname>commentquote</dirname>
+    <requires>
+        <alto>
+             <version>1.0.0</version>
+        </alto>
+    </requires>
+	<description>
+		<lang name="default">При цитировании указывается ссылки на автора исходного текста и на исходный комментарий</lang>
+	</description>
+</plugin>
